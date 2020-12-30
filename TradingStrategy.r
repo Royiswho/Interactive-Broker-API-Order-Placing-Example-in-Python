@@ -1,3 +1,6 @@
+### author: Yi Rong
+### update on 12/30/20
+
 rm(lis=ls())
 
 # Packages required
